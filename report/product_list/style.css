@@ -1,0 +1,34 @@
+table {
+    border-collapse: collapse;
+    font-family: tahoma;
+    font-size: 12px;
+    width: 100%;
+    /*  margin-left:20px; 
+      margin-right:20px;*/
+}
+
+td ,th{
+    padding: 3px 5px;
+}
+
+th{
+    font-size: 12px;
+    background-color: #cdf;
+}
+
+.header{
+    text-align: center;
+    margin-top: 0px;
+}
+.small_font_c{
+    font-size: 10px;
+    text-align: center;
+}
+.small_font_l{
+    font-size: 10px;
+    text-align: left;
+}
+.small_font_r{
+    font-size: 10px;
+    text-align: right;
+}

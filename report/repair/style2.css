@@ -1,0 +1,68 @@
+table {
+    border-collapse: collapse;
+    font-family: tahoma;
+    font-size: 12px;
+    width: 100%;
+    /*  margin-left:20px; 
+      margin-right:20px;*/
+}
+
+td ,th{
+    padding: 3px 5px;
+}
+
+th{
+    background-color: #cdf;
+}
+
+.header{
+    text-align: center;
+    margin-top: 0px;
+}
+#tableSell td{
+    text-align: center;
+    vertical-align: middle;
+}
+.font_1{
+    vertical-align: middle;
+    text-align: right;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 14px;
+}
+.font_2{
+    vertical-align: middle;
+    text-align: center;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 14px;
+}
+.b3{
+    font-weight: bold;
+}
+.font_3{
+    vertical-align: middle;
+    text-align: left;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 14px;
+}
+.font_4{
+    vertical-align: middle;
+    text-align: center;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 10px;
+}
+#sellDetail td{
+    vertical-align: middle;
+}
+#tableSell thead td{
+    vertical-align: middle;
+    font-style: normal;
+    font-size: 12px; 
+    text-align: center;
+}
+#tableSell tbody td{
+    vertical-align: middle;
+    font-style: normal;
+    font-size: 10px; 
+    text-align: center;
+}
+
